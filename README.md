@@ -1,6 +1,8 @@
 
-<h3 align="center">InfoNum</h3>
+<h1 align="center">InfoNum</h1>
 <p align="center">Informações Numéricas</p>
+
+
 
 # Queee???
 
