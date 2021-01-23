@@ -1,6 +1,6 @@
 
 <h1 align="center">InfoNum</h1>
-<a><img src="https://i.imgur.com/KjNcSCC.jpg" title="logo" width="128" height="128" /></a>
+<p align="center"><a><img src="https://i.imgur.com/KjNcSCC.jpg" title="logo" width="128" height="128"/></a></p>
 <p align="center">Informações Numéricas</p>
 
 
